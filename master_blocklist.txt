@@ -11001,6 +11001,7 @@ client-log.box.com
 client-log.karte.io
 client-logger.beta.salemove.com
 client-logger.salemove.com
+client-logs-a.wbx2.com
 client-metrics.chess.com
 client.perimeterx.net
 client.trustaff.com
@@ -13119,6 +13120,7 @@ dax.yle.fi
 daybreaklights.com
 daymodern.com
 dazdmx.cobra.fr
+dazzlescript.com
 dazzlingbook.com
 db7q4jg5rkhk8.cloudfront.net
 dba4.pandasuite.io
@@ -13953,6 +13955,7 @@ dockdigestion.com
 docksalmon.com
 doclec.supersmart.com
 doclen.hypedc.com
+documentstock.com
 docyjy.ryderwear.com
 dodgebugs.com
 dogbedscentral.com
@@ -14210,6 +14213,7 @@ e.unchealthcare.org
 e.usesneakpeek.com
 e.vcty.co
 e.viously.com
+e.zg-api.com
 e035.pandasuite.io
 e045f561.b-cdn.net
 e10.verticurl.com
@@ -15708,6 +15712,7 @@ events.getsitectrl.com
 events.glory-global.com
 events.gogoair.com
 events.golubcapital.com
+events.hotjar.io
 events.icmi.com
 events.il.fi
 events.ingatlan.com
@@ -17779,7 +17784,6 @@ gomerchant.groupon.com
 gondolagnome.com
 gone.pronhub.fun
 goodadvert.ru
-goodbark.com
 goodcontentservice.top
 google-analytics-cn.com
 google-analytics.com
@@ -29394,6 +29398,7 @@ pixel.kknews.cc
 pixel.leadlovers.app
 pixel.lilystyle.ai
 pixel.locker2.com
+pixel.marqo-ep.ai
 pixel.mintigo.com
 pixel.mtrcs.samba.tv
 pixel.newscred.com
@@ -30403,6 +30408,7 @@ quantumshine.com
 quarterbean.com
 quarterserver.de
 qubitanalytics.appspot.com
+queen-one.net
 queenjam.com
 queenskart.com
 query1.petametrics.com
@@ -30634,7 +30640,6 @@ rdfine.camelbrown.com
 rdlrbm.studying.jp
 rdvxxx.crushj.com
 re-ads.com
-re-direct.pl
 re-directme.com
 re.stjude.org
 reach-id.orbit.tm-awx.com
@@ -46170,6 +46175,7 @@ wirecomic.com
 wiredforcoffee.com
 wirenewsletter.com
 wirjoi.meetsmore.com
+wirypaste.com
 wisedotcom.com
 wisepops.com
 wispycity.com
@@ -47117,6 +47123,7 @@ x.allabout.co.jp
 x.babe.today
 x.bestcheck.de
 x.bloggurat.net
+x.designboom.com
 x.disq.us
 x.gldn.io
 x.timesunion.com
