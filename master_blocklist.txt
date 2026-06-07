@@ -11208,6 +11208,7 @@ cobweb.actonservice.com
 cockpitdcbaima.carte-gr.total.fr
 cod.bitrec.com
 code-server.biz
+code.etracker.com
 code.piano.io
 code.randomhouse.com
 codeadnetwork.com
@@ -15515,7 +15516,6 @@ etppmr.luko.eu
 etrack.ext.arubainstanton.com
 etrack.ext.arubanetworks.com
 etrack.ext.hpe.com
-etracker.com
 etracker.de
 etracker.noon.com
 ets.ni.com
@@ -38222,6 +38222,7 @@ static-eu.cleverpush.com
 static-tracking.klaviyo.com
 static.aliceadsl.fr
 static.cleverpush.com
+static.etracker.com
 static.fengkongcloud.com
 static.fmpub.net
 static.itrack.it
