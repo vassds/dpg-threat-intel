@@ -6176,7 +6176,6 @@ advertease.store
 adverticum.com
 adverticum.net
 adverticus.de
-advertipros.com
 advertise.com
 advertiseireland.com
 advertisementafterthought.com
@@ -7065,6 +7064,7 @@ analytics.phn.com
 analytics.picknrg.com
 analytics.picsart.com
 analytics.piksel.com
+analytics.pingaja.com
 analytics.pinterest.com
 analytics.pipelife-bewaesserung.at
 analytics.pipelife.at
@@ -10986,7 +10986,6 @@ clicktracks.com
 clicktrade.com
 clickwith.bid
 clickxchange.com
-clickyab.com
 clickz.com
 clicletters.com
 clicmanager.fr
@@ -20835,6 +20834,7 @@ joinb.rune.ai
 joinsai.securitiesamerica.com
 joinus.holidayseniorliving.com
 joqawz.snipes.nl
+joshpaintings.com
 joskgw.sewingmachinesplus.com
 journey.cisco.com
 journeys.journeyed.com
@@ -20905,6 +20905,7 @@ juicyads.com
 juicyads.me
 jujtcq.amnibus.com
 jumbo.zomato.com
+jumbochalk.com
 jumpstartinc.actonservice.com
 jumptap.com
 jumpto.use-beez.com
@@ -21345,6 +21346,7 @@ ladsp.com
 ladxxr.sonovente.com
 laffaire-du-jour.com
 lafrancedesnews.fr
+lakeofficepros.com
 lakequincy.com
 lakerspreferences.gleague.nba.com
 lakerspreferences.nba.com
@@ -22508,7 +22510,6 @@ links.teladoc.com
 links.thedyrt.com
 links.theinfatuation.com
 links.thephoenix.org
-links.thriveglobal.com
 links.tlc.com
 links.travelchannel.com
 links.tribe.fitness
@@ -33172,6 +33173,7 @@ sgmntfy.com
 sgms.greatschools.org
 sgsb.aba.com
 sgstats.com
+sgtm.cmoa.jp
 sgtm.tagmanageritalia.it
 sgtm.tennis-point.de
 sgw-analytics.panasonic.com
@@ -37969,7 +37971,6 @@ staging-go.getsquire.com
 staging-link-ccontact.focuscura.com
 staging-link.docyt.com
 staging-link.kol.store
-staging-links.thriveglobal.com
 staging-pt.ispot.tv
 staging-refer.rooam.co
 staging.findeck.link
@@ -38743,6 +38744,7 @@ stats.newsweek.com
 stats.nexagon.dk
 stats.nextgen-email.com
 stats.nhk.or.jp
+stats.nkkk.de
 stats.nodewood.com
 stats.nonprofit.foundation
 stats.nortonhealthcare.com
@@ -39026,6 +39028,7 @@ stats.varrando.com
 stats.vattenfall.nl
 stats.vattenfall.se
 stats.vdsnow.ru
+stats.velarium.cc
 stats.vican.me
 stats.vidbinge.com
 stats.viddler.com
@@ -39294,6 +39297,7 @@ structurerod.com
 sts.authramp.com
 sts.eccmp.com
 sts.eliasjarzombek.com
+sts.marketingsuite.jp
 sts.papyrs.com
 sts.tour-europe.org
 stscs.ditzo.nl
@@ -43214,6 +43218,7 @@ tracking.gpm-rtv.ru
 tracking.graduateschool.edu
 tracking.graphly.io
 tracking.grosseladies.de
+tracking.groupe-ldlc.com
 tracking.gruppo.mps.it
 tracking.guidehouse.com
 tracking.handlesets.com
