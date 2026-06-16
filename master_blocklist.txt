@@ -18647,6 +18647,7 @@ ictrjw.barcastores.com
 icywinter.com
 id-ward.com
 id.a-mx.com
+id.nbcuni.com
 id5-sync.com
 idbkfy.kango-roo.com
 iddu1vvb7sk8-a.akamaihd.net
@@ -22550,7 +22551,6 @@ linkvetdev.insights.md
 lio8.destinia.com.pa
 lionnet.info
 liosix.mtvuutiset.fi
-lipstat.com
 liquid.agora.pl
 liquidad.narrowcastmedia.com
 list-manage.com
@@ -24879,6 +24879,7 @@ mas.nth.ch
 mas.sector.sk
 massivemark.com
 master.cifraclub.com.br
+masterenter.com
 masternaut.actonservice.com
 mastertag.kpcustomer.de
 mastertag.q-sis.de
@@ -28290,6 +28291,7 @@ omadi.actonservice.com
 omahasteaks.com.102.122.207.net
 omcshw.pharmasi.it
 omdispatch.co.uk
+omegaroutes.com
 ometrics.ameds.com
 ometrics.netapp.com
 ometrics.warnerbros.com
@@ -29961,7 +29963,6 @@ profiling.plannja.com
 profiling.ruukki.com
 profit.edc.ca
 profitrumour.com
-proftrafficcounter.com
 profusesupport.com
 progmxs.com
 programattik.com
@@ -43090,8 +43091,6 @@ tracking.carsales.com.au
 tracking.cashkaro.com
 tracking.cat898.com
 tracking.cdiscount.com
-tracking.cds.dmm.co.jp
-tracking.cds.dmm.com
 tracking.cello-square.com
 tracking.cengage.com
 tracking.cenomicenters.com
