@@ -6176,6 +6176,7 @@ advertease.store
 adverticum.com
 adverticum.net
 adverticus.de
+advertipros.com
 advertise.com
 advertiseireland.com
 advertisementafterthought.com
@@ -6658,6 +6659,7 @@ analytic.buoyweather.com
 analytic.calif.aaa.com
 analytic.capitalgroup.com
 analytic.cibc.com
+analytic.divee.ai
 analytic.fishtrack.com
 analytic.hawaii.aaa.com
 analytic.hotelclub.com
@@ -6997,6 +6999,7 @@ analytics.metro.de
 analytics.metro.fr
 analytics.metro.pk
 analytics.metro.ua
+analytics.mgm.gov.tr
 analytics.midas-antilles.fr
 analytics.midas.be
 analytics.midas.ci
@@ -9151,7 +9154,6 @@ bannerimage.com
 bannering.com
 bannerlandia.com.ar
 bannermall.com
-bannermanager.bnr.bg
 bannermarkt.nl
 bannerpower.com
 banners-sentidog.com.ar
@@ -10986,6 +10988,7 @@ clicktracks.com
 clicktrade.com
 clickwith.bid
 clickxchange.com
+clickyab.com
 clickz.com
 clicletters.com
 clicmanager.fr
@@ -13234,6 +13237,7 @@ ddioce.wolverine.com
 ddl.alma.iltalehti.fi
 ddlbr.timesclub.co
 ddlcvm.clas.style
+ddlnk.net
 ddm.frandroid.com
 ddmfrg.modivo.bg
 ddnahc.mesbagages.com
@@ -31212,6 +31216,7 @@ roas-service.store-services-prod.remarkable.com
 robotflowermobile.com
 robotgarages.com
 robotreplay.com
+robotsrefinery.com
 rochelle.wantsext.me
 rockabox.co
 rockagainst.com
@@ -38002,6 +38007,7 @@ standingnest.com
 stape.brascast.com
 starchild.odencat.com
 starffa.com
+starfurniture.net
 starget.aircanada.com
 starget.airmiles.ca
 starget.bitdefender.com
@@ -39323,6 +39329,7 @@ stts.sgab-srfp.ch
 stts.swisshranalytics.ch
 studentadvantage.actonservice.com
 studio.joinsalut.com
+studioalkaline.com
 study.jcu.edu.au
 study.vu.edu.au
 studycooking.com
@@ -40946,6 +40953,7 @@ thebigvan.com
 thebrainybulb.com
 thebugs.ws
 thecea.actonservice.com
+thecounter.net
 thecrazychili.com
 thefilter.com
 thefishstops.com
@@ -42929,7 +42937,6 @@ tracker.keywordintent.com
 tracker.marinsm.com
 tracker.marinsoftware.com
 tracker.metricool.com
-tracker.metricswave.com
 tracker.mmdlv.it
 tracker.mrpfd.com
 tracker.mspy.com
@@ -45671,6 +45678,7 @@ warmafterthought.com
 warnwing.com
 warrenfcu.actonservice.com
 warrjy.feiler.jp
+wart.val.town
 waryfog.com
 was.epson.com
 was.stubhub.com
