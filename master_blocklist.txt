@@ -5078,6 +5078,7 @@ admaster.com.cn
 admatch-syndication.mochila.com
 admatchly.com
 admaxium.com
+adme2.click
 admeasure.hh-online.jp
 admedia.com
 admediasales.com
@@ -10511,6 +10512,7 @@ cdn.polarbyte.com
 cdn.ravm.tv
 cdn.scarabresearch.com
 cdn.segment.com
+cdn.smalk.ai
 cdn.sy-d.io
 cdn.usefathom.com
 cdn.webclicks24.com
@@ -11854,6 +11856,7 @@ corporatemrguide.americanexpress.co.uk
 corporatemrguide.americanexpress.de
 corporatepages.proximus.com
 corporateplatino.americanexpress.it
+correctedcode.com
 cortellisconnections.thomsonreuters.com
 cosme.caseepo.jp
 cosmicsculptor.com
@@ -20558,6 +20561,7 @@ itop.cz
 itp.phoebebeautyup.com
 itp.yaku-job.com
 itpebis03.recella3d.com
+itrackly.com
 its-that-easy.com
 itservices.ricoh.ch
 itservices.ricoh.co.uk
