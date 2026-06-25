@@ -6610,7 +6610,6 @@ amplitude.com
 ampltd.medal.tv
 ampltd.top.gg
 ampltd2.medal.tv
-ampscamp.net
 ams-pageview-public.s3.amazonaws.com
 ams.lelong.com.my
 ams.oraclecloud.com
@@ -10336,6 +10335,7 @@ cannonborough.com
 cannonchange.com
 canopka.net
 canvasandsocks.com
+canyonpizza.net
 caowuq.babyliss-romania.ro
 capablecows.com
 capi.connatix.com
@@ -11293,6 +11293,7 @@ collector.cint.com
 collector.clareity.net
 collector.dgnet.ltd.uk
 collector.ex.co
+collector.feedzop.com
 collector.fiverr.com
 collector.getyourguide.com
 collector.github.com
@@ -11304,12 +11305,14 @@ collector.net-logger.com
 collector.pi.spectrum.net
 collector.pmc.com
 collector.quillbot.com
+collector.quizzop.com
 collector.schibsted.io
 collector.spankbang.party
 collector.sspinc.io
 collector.t-idr.com
 collector.taoxh.life
 collector.theconversation.com
+collector.umogames.com
 collector.xhaccess.com
 collector.xhamster.com
 collector.xhamster.desi
@@ -12574,6 +12577,7 @@ dandydune.com
 dandyglow.com
 danielsmoving.actonservice.com
 danv01ao0kdr2.cloudfront.net
+dap.hindustantimes.com
 dapper.net
 dapperdiscussion.com
 darceybusselldirect.com
@@ -28808,6 +28812,7 @@ outbrain.com
 outdoor.theres.co
 outdoorsoil.com
 outdoorthingy.com
+outerwords.com
 outreach.allmy-data.com
 outreach.connectednation.org
 outreach.crossref.org
