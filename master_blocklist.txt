@@ -12474,6 +12474,7 @@ d2cmedia.ca
 d2cpw6kwpff7n5.cloudfront.net
 d2ezz24t9nm0vu.cloudfront.net
 d2gbtcuv3w9qyv.cloudfront.net
+d2gt2ux04o03l1.cloudfront.net
 d2i34c80a0ftze.cloudfront.net
 d2ibu2ug0mt5qp.cloudfront.net
 d2j1fszo1axgmp.cloudfront.net
@@ -17785,6 +17786,7 @@ goldstats.com
 goldstudies.com
 golfcartlaws.com
 golfersrow.com
+gollum.monotote.com
 gomerchant.groupon.com
 gondolagnome.com
 gone.pronhub.fun
@@ -18154,7 +18156,7 @@ heatmaps.lcisoft.it
 heavydetail.com
 heavyplayground.com
 heias.com
-heimi-lwx.com
+heimdall.hearstapps.com
 hej.henriksommerfeld.se
 hekhnn.turnkeyvr.com
 helens.actonservice.com
@@ -18188,6 +18190,7 @@ hemblx.vans.cl
 hentaicounter.com
 herbalaffiliateprogram.com
 herbgreencolumn.com
+herbstarsbuilding.com
 herpes2.pa-ruit.jp
 hesconet.actonservice.com
 hesprh.sony.jp
@@ -21274,6 +21277,7 @@ l.dzfoot.com
 l.e.domain.com.au
 l.engage.canva.com
 l.entrenous.fr
+l.ffx.io
 l.football.fr
 l.football365.fr
 l.francetvinfo.fr
@@ -21544,6 +21548,7 @@ leecompany.actonservice.com
 leftliquid.com
 legalhold.ediscovery.com
 legava.net
+legolas.monotote.com
 lekfso.hitohana.tokyo
 lem.nouvelobs.com
 lemaildefou.fr
@@ -22734,6 +22739,7 @@ log.rutube.ru
 log.seekda.com
 log.sina.cn
 log.snapdeal.com
+log.strawpoll.com
 log.tagtic.cn
 log.targetpush.co.kr
 log.tossinvest.com
@@ -30377,6 +30383,7 @@ qoairs.scholl-shoes.com
 qohlsl.drawer.fr
 qonwdq.helmexpress.com
 qouxkn.natuurhuisje.nl
+qovani.com
 qoygsv.born2be.pl
 qpc4.visilab.ch
 qpielh.kfhi.or.kr
@@ -40043,6 +40050,7 @@ t.miamihurricanes.com
 t.miamiredhawks.com
 t.mktg.genesys.com
 t.mmaeast.com
+t.mmganalytics.com
 t.mmtrkr.com
 t.montecarlosbm.com
 t.msubobcats.com
@@ -40620,6 +40628,7 @@ tbe.tom.ru
 tbihvt.pickawood.com
 tbjasp.cyrillus.de
 tbknig.ecc.jp
+tblcontent.com
 tbmgyz.centerparcs.de
 tbvjrd.gocase.com.br
 tc.europcar.com
@@ -40763,6 +40772,7 @@ telemetry.adobe.io
 telemetry.algolia.com
 telemetry.api.playstation.com
 telemetry.boxt.co.uk
+telemetry.bydata.com
 telemetry.canva.com
 telemetry.chrobinson.com
 telemetry.commonspirit.org
@@ -43988,6 +43998,7 @@ trk.e.chooseumpquabank.com
 trk.e.mailchimp.com
 trk.e.underarmour.com
 trk.ecomm.lenovo.com
+trk.edf.fr
 trk.elmlea.com
 trk.elmorietschle.com
 trk.elq.mcphersonoil.com
@@ -44283,6 +44294,7 @@ ts-analysis.shoalter.com
 ts.delfi.lt
 ts.popsugar.com
 ts.tradetracker.net
+tsa-f.webex.com
 tsa.taxslayer.com
 tsa.webex.com
 tsbkht.puritan.com
