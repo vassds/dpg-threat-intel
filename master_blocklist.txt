@@ -6057,6 +6057,7 @@ adstercerclick.com.ar
 adstest.weather.com
 adstk.io
 adstransparency.google.com
+adstrategy-elb.go2cloud.org
 adstub.net
 adsupply.com
 adsverse.com
@@ -6133,6 +6134,7 @@ adtraction.com
 adtrade.net
 adtrak.net
 adtriplex.com
+adtrk1.com
 adtuition.com
 adtuitive.com
 adulariagk.com
@@ -6194,6 +6196,7 @@ advertmedia.com
 advertmedia.de
 advertpro.sitepoint.com
 advertpro.ya.com
+advertracker.com
 advertserve.com
 advertstream.com
 advertwizard.com
@@ -42876,6 +42879,7 @@ track.veedio.it
 track.venatusmedia.com
 track.viewdeos.com
 track.vscash.com
+track.wewilltrcku.com
 track.workframe.com
 track.workfusion.com
 track.xmarketech.com
@@ -42965,6 +42969,7 @@ tracker.myyschool.xyz
 tracker.nbcuas.com
 tracker.nitropay.com
 tracker.nocodelytics.com
+tracker.optin-lead.com
 tracker.oval.id
 tracker.personizely.net
 tracker.prod.ams3.k8s.hyperia.sk
@@ -43027,6 +43032,7 @@ tracking.adp.com
 tracking.adpinfo.com
 tracking.adpri.org
 tracking.ads.global-fashion-group.com
+tracking.adstrategysites.com
 tracking.aegpresents.com
 tracking.agora.io
 tracking.ai.rakuten.co.jp
@@ -43120,6 +43126,7 @@ tracking.care.essentiahealth.org
 tracking.care.muschealth.org
 tracking.care.salinasvalleyhealth.com
 tracking.carsales.com.au
+tracking.casheddy.com
 tracking.cashkaro.com
 tracking.cat898.com
 tracking.cdiscount.com
@@ -43442,6 +43449,7 @@ tracking.orixa-media.com
 tracking.osteuropaladies.de
 tracking.oswegohealth.org
 tracking.outsetmedical.com
+tracking.p-l-m.com
 tracking.pacharge.com
 tracking.parcelpending.com
 tracking.particuliers.engie.fr
