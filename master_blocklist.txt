@@ -6677,6 +6677,7 @@ analytic20.detik.com
 analyticcdn.globalmailer.com
 analyticcdn.wlmediahub.com
 analytics-1.cavai.com
+analytics-api-s.cloudinary.com
 analytics-api.gemcommerce.com
 analytics-api.klickly.com
 analytics-api.samsunghealthcn.com
@@ -6747,6 +6748,7 @@ analytics.archive.org
 analytics.argeton.com
 analytics.arunraghavan.net
 analytics.asml.com
+analytics.atlas5.co
 analytics.atom.com
 analytics.audioeye.com
 analytics.audionow.de
@@ -6852,6 +6854,7 @@ analytics.disney.go.com
 analytics.disneyinternational.com
 analytics.disneyplus.com
 analytics.distributednews.com
+analytics.divulg.org
 analytics.dv.socure.io
 analytics.dvidshub.net
 analytics.edgekey.net
@@ -13199,6 +13202,7 @@ dcclaa.slowlyveggie.de
 dcinfos-cache.abtasty.com
 dckiwt.eataly.com
 dclnxirp001cou.net.jumia.co.tz
+dclsrv.com
 dcnkrd.baseballsavings.com
 dco.coupang.com
 dcs.audi.com
@@ -14104,6 +14108,7 @@ dsg.interia.pl
 dshcej.aosom.co.uk
 dsj4qf77pyncykf2dki6isfcuy0orwhc.lambda-url.eu-west-1.on.aws
 dsoxjxin5jji.controlconceptsusa.com
+dsp-track-global.zmaticoo.com
 dsp.colpirio.com
 dsp.io
 dspx.tv
@@ -28712,6 +28717,7 @@ origin-smetrics.go365.com
 origin-target.humana.com
 origin.www.images.2.forms.healthcare.philips.com
 originblocks.com
+orion.bendingspoons.com
 orionember.com
 orionmarketing.actonservice.com
 orlmarketing.nfp.com
@@ -39750,6 +39756,7 @@ sync.adap.tv
 sync.rambler.ru
 sync.richaudience.com
 sync.shinobi.jp
+syncingbridge.com
 synonymoussticks.com
 synthesizescarecrow.com
 syqhvv.vivense.com
@@ -42911,6 +42918,7 @@ tracker-rec.smart-bdash.com
 tracker-remp.active.radio
 tracker-remp.premiumtimesng.com
 tracker-server.high-cdn.com
+tracker-shr.ortb.net
 tracker-v4.gamedock.io
 tracker.3dissue.com
 tracker.520call.me
