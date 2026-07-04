@@ -6690,6 +6690,7 @@ analytics-collect.karakuri.ai
 analytics-consent-manager-v2-prod.azureedge.net
 analytics-dataplane.invideo.io
 analytics-fe.digital-cloud-prem.medallia.com
+analytics-fe.digital-cloud-prem.medallia.eu
 analytics-fe.digital-cloud.medallia.ca
 analytics-fe.digital-cloud.medallia.com
 analytics-gw.games.wanmei.com
@@ -9091,6 +9092,7 @@ bahyei.himaraya.co.jp
 baitbaseball.com
 bakercommunications.actonservice.com
 balancebreath.com
+balancenotes.com
 balkog.withmoment.co.kr
 ballantine.actonservice.com
 balloonbelieve.com
@@ -16641,6 +16643,7 @@ fudezz.kompasiana.com
 fudezz.motorplus-online.com
 fudezz.sonora.id
 fudgegenie.com
+fuelfever.net
 fuelinspector.com
 fufbgj.pazzo.com.tw
 fufoir.aif.ru
@@ -30671,6 +30674,7 @@ rdfine.camelbrown.com
 rdlrbm.studying.jp
 rdvxxx.crushj.com
 re-ads.com
+re-direct.pl
 re-directme.com
 re.stjude.org
 reach-id.orbit.tm-awx.com
@@ -46226,7 +46230,6 @@ wirecomic.com
 wiredforcoffee.com
 wirenewsletter.com
 wirjoi.meetsmore.com
-wirypaste.com
 wisedotcom.com
 wisepops.com
 wispycity.com
