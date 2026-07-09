@@ -7251,6 +7251,7 @@ analytics.visible.com
 analytics.vitalsignstracker.com
 analytics.viture.dev
 analytics.vixcloud.co
+analytics.vk.asahi.co.jp
 analytics.vortexscans.com
 analytics.warnertv.fr
 analytics.wask.co
@@ -7442,6 +7443,7 @@ aphxav.green-acres.it
 api-analytics-prd.pelcro.com
 api-eu.cleverpush.com
 api-eu1.hubapi.com
+api-ext.bixbitemarketing.com
 api-hotmart-tracking-manager.hotmart.com
 api-js.mixpanel.com
 api-metric.gosweb.gosuslugi.ru
@@ -10634,6 +10636,7 @@ cheese.guac.live
 chef.getmenoo.com
 chef.newtrina.com
 chelsea.clicks.hqo.co
+chemistrycore.com
 cherriescare.com
 cherry.le.com
 cherrythread.com
@@ -13289,6 +13292,7 @@ debug-inform.liilix.com
 debug-r.rover.com
 decenterads.com
 decidedrum.com
+decisionhut.com
 decisivebase.com
 decisivedrawer.com
 decisiveducks.com
@@ -13395,6 +13399,7 @@ desertedrat.com
 desertgates.com
 design.informabi.com
 design.nanawall.com
+designdew.com
 designetbeau.com
 designsgrid.com
 desirebucket.com
@@ -15166,6 +15171,7 @@ emb.soothe.com
 embellishedmeadow.com
 emberwhisper.com
 embknh.perriconemd.com
+embossedpaper.com
 emc.dr-stick.shop
 emcalliance.vmware.com
 emdlqs.longtallsally.com
