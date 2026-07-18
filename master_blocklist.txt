@@ -5713,6 +5713,7 @@ ads.tripod.lycos.it
 ads.tripod.lycos.nl
 ads.tso.dennisnet.co.uk
 ads.tucows.com
+ads.tvp.pl
 ads.tvtuga.com
 ads.twitter.com
 ads.twojatv.info
@@ -5784,7 +5785,6 @@ ads1.virtual-nights.com
 ads10.speedbit.com
 ads15.udc.advance.net
 ads180.com
-ads2.brazzers.com
 ads2.clearchannel.com
 ads2.contentabc.com
 ads2.femmefab.nl
@@ -10199,6 +10199,7 @@ c.stext.id
 c.thredup.com
 c.topya.com
 c.trackmytarget.com
+c.uniten.io
 c.vanityfair.com
 c.vcty.co
 c.vogue.com
@@ -17101,7 +17102,6 @@ gettoknow.skookum.com
 gettunable.affinityblue.com
 getwagtail.com
 getwisdom.io
-getxmlisi.com
 geygin.bonprix.ch
 geystikigonia.openapp.link
 gf7t.cheques-cadeaux-culturels.fr
@@ -21488,6 +21488,7 @@ lbgrwm.zolta.pl
 lbn.ru
 lbnrrh.autouncle.dk
 lbv5.mperf.com
+lc-event.pixiv.net
 lcdsyj.daily.co.jp
 lcefua.timberland.ru
 lciapi.ninthdecimal.com
@@ -22855,8 +22856,6 @@ loobmf.hardloop.fr
 look-ahead.nurturemarketing.com
 look-i-ya.com
 look.djfiln.com
-look.ichlnk.com
-look.opskln.com
 look.ufinkln.com
 look09.com
 loomberge.eu
@@ -30289,7 +30288,6 @@ pxvlcc.crocs.fr
 pxxhbz.apamanshop.com
 pydnsv.ejobs.ro
 pylon.micstatic.com
-pymx5.com
 pyouad.autonvaraosat24.fi
 pyqfjx.medwing.com
 pyrexar.actonservice.com
@@ -31006,7 +31004,6 @@ res.paruvendu.fr
 res.programme-television.org
 res.public.fr
 res.rbl.ms
-resalag.com
 rescueothers.com
 rescuerhino.com
 research.dshb.biology.uiowa.edu
@@ -33609,6 +33606,7 @@ ski1.skiset.com
 skilledview.com
 skillfuldrop.com
 skillfullyfrugal.com
+skillpuppy.com
 skillshouse.actonservice.com
 skimresources.com
 skincheckwa-app.hotdoc.com.au
@@ -39670,6 +39668,7 @@ swa.wowcher.co.uk
 swaljol72dgv.controlconceptsusa.com
 swan-swan-goose.com
 swankysquare.com
+swanwebcreations.com
 swasc.homedepot.ca
 swasc.homedepot.com
 swasc.kaufland.bg
@@ -39716,6 +39715,7 @@ swirlstop.com
 swissinside.easyjet.com.edgekey.net.easyjet.com
 swmhdata.stuttgarter-nachrichten.de
 swmhdata.stuttgarter-zeitung.de
+swordblock.com
 swordfishdc.com
 swordgoose.com
 swqleb.adidas.ru
@@ -40643,6 +40643,7 @@ target.zeiss.de
 target.zinia.com
 targetab.metrobyt-mobile.com
 targetemsecure.blob.core.windows.net
+targetfax.com
 targeting.api.drift.com
 targeting.focas.jp
 targeting.nzme.arcpublishing.com
@@ -41032,6 +41033,7 @@ thefontzone.com
 thejavalane.com
 themangotea.com
 theme.echovisuals.com
+themegoats.com
 themepicker.com
 themexdeco.net
 themoneytizer.com
@@ -45383,6 +45385,7 @@ verticalmass.com
 veruta.com
 vervewireless.com
 verybark.com
+verybouncy.com
 vetsource.actonservice.com
 veve.com
 vewbab.entertainmentearth.com
@@ -45467,6 +45470,7 @@ view.metlspan.com
 view.nucorbuildingsystems.com
 view4cash.de
 viewer.pandasuite.io
+viewresource.com
 views.arabnews.com
 views.asurascans.com
 views.b1tv.ro
@@ -46181,7 +46185,6 @@ wellgroomedhydrant.com
 wellmadefrog.com
 wellness.palomarhealth.org
 welovebeauty.com
-welved.com
 wemqip.misli.com
 weoccn.bonito.pl
 wepany.tripbeat.com
@@ -46266,7 +46269,6 @@ wirecomic.com
 wiredforcoffee.com
 wirenewsletter.com
 wirjoi.meetsmore.com
-wirypaste.com
 wisedotcom.com
 wisepops.com
 wispycity.com
