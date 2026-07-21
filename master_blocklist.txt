@@ -9214,6 +9214,7 @@ bapages.carte-gr.total.fr
 barbarousbase.com
 barbarousnerve.com
 barbershirts.com
+barcodetool.com
 baremetrics.com
 barium.cheezdev.com
 barkfactor.com
@@ -9343,6 +9344,7 @@ bears.daigostudio.com
 bearsareaweetone.com
 beat.yourtv.jp
 beaumont.actonservice.com
+beautifulrope.com
 bebi.com
 bebpon.zetronix.com
 becanium.com
@@ -13254,7 +13256,6 @@ dd.g2.com
 dd.garena.com
 dd.leboncoin.fr
 dd.nytimes.com
-dd.qwant.com
 dd.seloger-bureaux-commerces.com
 dd.seloger.com
 dd.selogerneuf.com
