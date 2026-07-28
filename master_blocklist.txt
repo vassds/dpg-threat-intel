@@ -4483,6 +4483,7 @@ acv.mc-doctor.net
 acv.mc-nurse.net
 acv.mc-pharma.net
 acv.me-hikari.net
+acv.mira-dsp.com
 acv.next-air-wifi.com
 acv.next-internet.info
 acv.nft-hikari.net
@@ -6525,6 +6526,7 @@ allinsurance.allinsure.ca
 allnewhost.com
 allosponsor.com
 alloutdubstep.com
+alloy-rap.reclameaqui.com.br
 alloy-web.zvuk.com
 alloytitans.com
 allreach.actonservice.com
@@ -9389,6 +9391,7 @@ best-top.ro
 bestboundary.com
 bestbuy.7tiv.net
 bestbuy.actonservice.com
+bestclimbers.net
 bestgameads.com
 bestill.help.no
 bestinfo.bluetrustloans.com
@@ -16230,6 +16233,7 @@ financialeducation-info.uchicago.edu
 financialservices.nada.org
 financialservices.teranet.ca
 find.api.micloud.xiaomi.net.iberostar.com
+findcalculator.com
 findcommerce.com
 findepended.com
 findthetruth.allergyai.com
@@ -28186,6 +28190,7 @@ obrqts.hudforeclosed.com
 obs.branderblender.com
 obs.du89buildings.com
 obs.esnlocco.com
+obs.greencolumnblog.com
 obs.jollyoutdoorjogger.com
 obs.system1onesource.com
 obscenesidewalk.com
@@ -29721,6 +29726,7 @@ playbook.convio.com
 player-metrics.instaread.co
 player-telemetry.vimeo.com
 playerhappy.com
+playerscache.com
 playfulriver.com
 playhaven.com
 playmobileads.com
@@ -30133,6 +30139,7 @@ provenpixel.com
 provexia.com
 providentcrm.actonservice.com
 provideplant.com
+provingmagic.com
 prowareness.actonservice.com
 proxima.midjourney.com
 proxy.dzeio.com
@@ -30617,6 +30624,7 @@ r42tag.com
 r4nds.absorba.com
 r5siqu4ab.cc.rs6.net
 rabbit.donald.cat
+rabbitboots.com
 rabbitbreath.com
 rabbitrifle.com
 rabinhb.com
@@ -33489,6 +33497,7 @@ signup.vovici.com
 sihoqd.sheridan.com.au
 silentcredit.com
 silentjackal.com
+silentsingle.com
 siliconslow.com
 silkysquirrel.com
 sillyscrew.com
@@ -36749,6 +36758,7 @@ smowtion.com
 smqzbr.proozy.com
 smrt.as
 smrtb.com
+smrtwheel.com
 sms-vbs.branch.rocks
 sms.3.se
 sms.ajopharmabeta.riteaid.com
@@ -38878,6 +38888,7 @@ stats.oyster.com
 stats.ozwebsites.biz
 stats.p42.ai
 stats.pacificdentalservices.com
+stats.panet.com
 stats.parqet.com
 stats.parrot.dev
 stats.passwordyeti.com
@@ -43085,6 +43096,7 @@ tracking-api-4lasu2nlcq-ew.a.run.app
 tracking-api.bookzone.ro
 tracking-api.hotmart.com
 tracking-api.mangopulse.net
+tracking-api.razor.media
 tracking-explore-uat.agilent.com
 tracking-explore.agilent.com
 tracking-live.kr3m.com
