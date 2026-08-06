@@ -7002,6 +7002,7 @@ analytics.martinandosa.com
 analytics.massivwerthaus.at
 analytics.matchbin.com
 analytics.maxroll.gg
+analytics.maxx53.com
 analytics.mc500.info
 analytics.media-proweb.de
 analytics.meituan.net
@@ -14695,6 +14696,7 @@ ekfwof.finnishdesignshop.fi
 eklexu.kibuba.com
 ekphpa.perfectlypriscilla.com
 el.quizlet.com
+el.siglo.mx
 elasticchange.com
 elastoproxy.actonservice.com
 elconfidencialdigital.actonservice.com
@@ -15410,6 +15412,7 @@ engage2demand.cisco.com
 engagebdr.com
 engagefront.meteomedia.com
 engagefront.theweathernetwork.com
+engagement.coremedia.cloud
 engagement.feedly.com
 engagemetrics.cisco.com
 engageru.3mrussia.ru
@@ -15777,6 +15780,7 @@ events.il.fi
 events.ingatlan.com
 events.interface.com
 events.jotform.com
+events.julephosting.de
 events.kangan.edu.au
 events.limango.com
 events.mapbox.com
@@ -16079,6 +16083,7 @@ fancyactivity.com
 fancycolorlist.net
 fancydune.com
 fangfeeling.com
+fanless.net
 faokwl.sklepogrodniczy.pl
 faqtjp.redley.com.br
 farahatco.actonservice.com
@@ -16554,7 +16559,6 @@ fpjscdn.net
 fpptmv.mrmarvis.co.uk
 fpssl-monitor-dal.omniture.com
 fpt.inxinternational.com
-fpt.microsoft.com
 fptls.com
 fptls2.com
 fptls3.com
@@ -18754,6 +18758,7 @@ idndlc.kango-oshigoto.jp
 idqwqm.kkday.com
 idrivelogistics.actonservice.com
 ids.actonservice.com
+idsmodules.com
 idstatus.sky.com
 idtargeting.com
 iduk.barcodesgroup.com
@@ -25518,6 +25523,7 @@ metric.wilsonelectronics.com
 metric.worldcat.org
 metric.yardhouse.com
 metricas.agzero.com.br
+metricfresh.com
 metrics-a.wbx2.com
 metrics-api.librato.com
 metrics-broker.prod.p.tf1.fr
@@ -29022,6 +29028,7 @@ p7cloud.net
 p7h1silo3f.app.cainthus.com
 pa-stats.encore.dev
 pa.opqr.co
+pa.pinpoll.com
 pa.travelwhiz.app
 paa-reporting-advertising.amazon
 pabgey.siepomaga.pl
@@ -29204,6 +29211,7 @@ partnersuccess.cisco.com
 partnersuccessmetrics.cisco.com
 partnerwith.us.streetbond.com
 partplanes.com
+partycharge.com
 passeresfm.com
 passeura.com
 passion-4.net
@@ -36870,6 +36878,7 @@ snoresmile.com
 snowflake.qq.com
 snowman.odencat.com
 snowmentor.com
+snowpeaksoftware.com
 snowplowjs.darwin.cx
 snprxx.wwfmarket.com
 snptrk.com
@@ -36924,6 +36933,7 @@ solidscape.actonservice.com
 solidsub.com
 solmax.actonservice.com
 solosduetstrios.com
+solsticeblack.com
 solucionesreales.americanexpress.es
 solution.agc-chemicals.com
 solution.resonac.com
@@ -37243,6 +37253,7 @@ sonar6.fzih1-1.fna.fbcdn.net.iberostar.com
 sonar6.xy.fbcdn.net.iberostar.com
 soneticscorp.actonservice.com
 songsterritory.com
+sonicsessions.net
 sonobi.com
 soothingglade.com
 sophisticatedstove.com
@@ -38623,6 +38634,7 @@ stats.evenchilada.com
 stats.executebig.org
 stats.exploratv.ca
 stats.extendedstayamerica.com
+stats.externulls.com
 stats.extramilefloorcare.com
 stats.eyehelp.co
 stats.fabiofranchino.com
@@ -40710,7 +40722,6 @@ target.zeiss.de
 target.zinia.com
 targetab.metrobyt-mobile.com
 targetemsecure.blob.core.windows.net
-targetfax.com
 targeting.api.drift.com
 targeting.focas.jp
 targeting.nzme.arcpublishing.com
