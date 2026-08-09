@@ -6621,6 +6621,7 @@ amplitude.com
 ampltd.medal.tv
 ampltd.top.gg
 ampltd2.medal.tv
+ampscamp.net
 ams-pageview-public.s3.amazonaws.com
 ams.lelong.com.my
 ams.oraclecloud.com
@@ -30275,6 +30276,7 @@ pulsaredit.com
 pulsatingmeadow.com
 pulse.delta.com
 pulse.ecmapps.com
+pulse.genki.world
 pulse.munsonhealthcare.org
 pulse.shopflo.com
 pulsemgr.com
