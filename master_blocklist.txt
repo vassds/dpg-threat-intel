@@ -379,6 +379,7 @@ a.vdo.ai
 a.vfghd.com
 a.vfgtb.com
 a.vturb.net
+a.wb.ru
 a.weareknitters.co.uk
 a.weareknitters.com
 a.weareknitters.de
@@ -4129,6 +4130,7 @@ abemms.atp-autoteile.de
 abgghj.moustakastoys.gr
 abilityscale.com
 abilitytoucan.com
+abilityworkout.com
 abjectattempt.com
 abjkfy.muuu.com
 abjtuq.exoticca.com
@@ -4387,6 +4389,7 @@ acidpigs.com
 aciysf.destockage-fitness.com
 aclordi.actonservice.com
 acobt.tech
+acollector.wb.ru
 acq-au.americanexpress.com
 acq-hk.americanexpress.com
 acq-jp.americanexpress.com
@@ -7402,6 +7405,7 @@ answers.teradata.pl
 answers.teradata.ru
 answers.teradata.se
 antblz.mediaworld.it
+antibot.wildberries.ru
 antico.openapp.link
 antitracking.owncast.online
 antonsystems.actonservice.com
@@ -9409,6 +9413,7 @@ bestill.help.no
 bestinfo.bluetrustloans.com
 bestsearch.net
 bestshoesboot.com
+bestsportsbra.com
 besucher.nona.de
 beta-link.liilix.com
 betazebra.com
@@ -13837,6 +13842,7 @@ discreetfield.com
 discreetquarter.com
 disneyplus.bn5x.net
 dispatchunique.com
+dispeldesign.com
 dispensablestranger.com
 displayadsmedia.com
 displaymaxmerchandising.actonservice.com
@@ -14162,6 +14168,7 @@ dt-tracker.mamikos.com
 dt.xfyun.cn
 dt51.net
 dtag.breadfinancial.com
+dtasrvr.com
 dtestpromo.fiat.it
 dtignite.com
 dtmpub.com
@@ -14592,6 +14599,7 @@ edge.treehousetv.com
 edge.truist.com
 edge.truistmomentum.com
 edge.truistsecurities.com
+edge.venatusmedia.com
 edge.wnetwork.com
 edgedc.falabella.com
 edgeio.com
@@ -17985,6 +17993,7 @@ groupevents.sixflags.com
 groups.heatexperience.com
 grow.business.xerox.com
 grow.national.biz
+grow.urbandictionary.network
 growth-channel.net
 growthmodemarketing.actonservice.com
 growthrx.in
@@ -18761,6 +18770,7 @@ idndlc.kango-oshigoto.jp
 idqwqm.kkday.com
 idrivelogistics.actonservice.com
 ids.actonservice.com
+idsequoia.ai
 idsmodules.com
 idstatus.sky.com
 idtargeting.com
@@ -29952,6 +29962,7 @@ prd-collector-anon.ex.co
 prd-collector-platform.ex.co
 pre-employmentservices.adp.com
 prealpha.go.levelbank.com
+prebid.loopmertb.com
 prebid.org
 preciousplanes.com
 precisear.com
@@ -31486,6 +31497,7 @@ rum-collector.leaderint.workers.dev
 rum-http-intake.logs.datadoghq.com
 rum-http-intake.logs.datadoghq.eu
 rum-ingress-coralogix.com
+rum.aliyuncs.com
 rum.api.intuit.com
 rum.azion.com
 rum.azioncdn.net
