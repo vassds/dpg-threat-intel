@@ -5839,6 +5839,7 @@ adsatt.abcnews.starwave.com
 adsatt.espn.go.com
 adsatt.espn.starwave.com
 adsatt.go.starwave.com
+adsbigo.com
 adsby.bidtheatre.com
 adsby.popupmoney.com
 adsbydelema.com
@@ -8510,6 +8511,7 @@ arsaqf.yukoyuko.net
 art.b.inhaabit.com
 art.carte-gr.total.fr
 art2wave.actonservice.com
+artbranch.net
 artemis-cdn.ocdn.eu
 articledemon.com
 artisan.actonservice.com
@@ -8770,6 +8772,7 @@ authentic3d.actonservice.com
 authsmtp.happ.social
 auto-bannertausch.de
 auto-swiat.pl
+autoappearancetraining.com
 autohits.dk
 autoimmunity.thermo.com
 autoimmunity.thermofisher.com
@@ -9442,6 +9445,7 @@ bewaslac.com
 bewilderedbattle.com
 bewilderedblade.com
 beyond.bluewolf.com
+beyondgoodness.com
 bf35f69f2c6f6bcda64064b1f5b49218.domain.com.au
 bfast.com
 bfeagv.chicwish.com
@@ -9630,6 +9634,7 @@ blue.nbc4i.com
 blueadvertise.com
 bluebusiness.actonservice.com
 bluecava.com
+bluecollarmuse.com
 blueconic.com
 blueconic.net
 bluecore-email.branch.rocks
@@ -17921,7 +17926,6 @@ goblinindex.com
 gocertiport.pearsonvue.com
 gocuxy.baycrews.jp
 god.vsee.me
-goddesslamps.com
 godev.steps.me
 godiciardstia.com
 godseedband.com
@@ -21826,6 +21830,7 @@ librato-collector.genius.com
 licensinginsights.ascap.com
 liecso.e-himart.co.kr
 lieudetravail.ricoh.fr
+lifecoverdirect.com
 lifeimpressions.net
 lifescience.item24.de
 lifestyle.edm.globalsources.com
@@ -25321,6 +25326,7 @@ me.glamhive.com
 me.sigsauer.com
 meadowlullaby.com
 meanwellaustralia.actonservice.com
+meas.join-stories.com
 measlymiddle.com
 measure.ameblo.jp
 measure.office.com
@@ -25482,6 +25488,7 @@ memorizematch.com
 memorizeneck.com
 memorycobweb.com
 mennoc.mezlan.com
+mentalreef.com
 menteechain.com
 mention-me.com
 mentogesabet.com
@@ -27134,6 +27141,7 @@ miscjewelry.com
 miscreantmoon.com
 missionrewards.com
 missionrs.actonservice.com
+missvent.com
 mistervillas.com
 mistyhorizon.com
 mit.bhw.de
@@ -27957,6 +27965,7 @@ news.verimatrix.com
 news2.secureforms.mcafee.com
 newsadsppush.com
 newsbotnet.com
+newscompiler.com
 newsflash.elliemae.com
 newsletter.bcautoencheres.fr
 newsletter.davey.com
@@ -28237,6 +28246,7 @@ nullnorth.com
 nullradar.com
 numax.nu-1.com
 numbers.monthlyphotos.com
+numericblog.com
 numerousnest.com
 nums.upscale.app
 nuquds.citizenwatch.com
@@ -37623,6 +37633,7 @@ squishykiosk.com
 sr59t7wbx5.claricelin.com
 sra-px.cdn-fileserver.com
 src.freshmarketer.in
+src.fwusercontent.com
 srd1-pdx.net.jumia.ci
 srepdata.12newsnow.com
 srepdata.13wmaz.com
