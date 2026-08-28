@@ -6468,6 +6468,7 @@ aknzmq.divvino.com.br
 akpiug.rarecarat.com
 aksb-a.akamaihd.net
 akspdp.materialkitchen.com
+akstat.io
 akv2-br-cdn.kwai.net.iberostar.com
 akzdrh.catofashions.com
 al-smetrics.vizio.com
@@ -13358,6 +13359,7 @@ de.bca-news.com
 de.contact.alphabet.com
 de.mywd.com
 de.sharpmarketing.eu
+de.tynt.com
 de.verintsystemsinc.com
 de17a.com
 de5zarwna0j2q.cloudfront.net
