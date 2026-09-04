@@ -6080,6 +6080,7 @@ adsynergy.com
 adsys.townnews.com
 adsystem.simplemachines.org
 adt598.com
+adtagj.portal-factory.com
 adtarget.barcainnovationhub.com
 adtarget.fcbarcelona.cat
 adtarget.fcbarcelona.co.it
@@ -30424,6 +30425,7 @@ pub.servidoresge.com
 pub.sheknows.com
 pub.tappx.com
 pub.uchimit.fr
+pubbug.com
 pubdirecte.com
 pubfs.com
 pubfuture-ssp.com
