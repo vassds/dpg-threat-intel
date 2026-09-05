@@ -4868,6 +4868,7 @@ adcovery.com
 adcycle.com
 add.newmedia.cz
 add.yaho.com
+addefend-platform.com
 addfreestats.com
 addictedattention.com
 addinto.com
@@ -5668,7 +5669,6 @@ ads.sandino.net
 ads.santanderrio.com.ar
 ads.satyamonline.com
 ads.saymedia.com
-ads.schmoozecom.net
 ads.scifi.com
 ads.seniorfriendfinder.com
 ads.servebom.com
@@ -5864,6 +5864,7 @@ adsensecustomsearchads.com
 adserv.altomedia.net
 adserv.gamezone.de
 adserv.newcentury.net
+adserv.snigelweb.com
 adservage.com
 adservant.guj.de
 adservant.mediapoint.de
@@ -6161,7 +6162,6 @@ adv-sv-stat.focus.cn
 adv.440network.com
 adv.com.br
 adv.cooperhosting.net
-adv.donejty.pl
 adv.drtuber.com
 adv.freeonline.it
 adv.hwupgrade.it
@@ -6703,6 +6703,7 @@ analytics-api-s.cloudinary.com
 analytics-api.gemcommerce.com
 analytics-api.klickly.com
 analytics-api.samsunghealthcn.com
+analytics-assets.tes.com
 analytics-batch.blitz.gg
 analytics-beacon.p.uliza.jp
 analytics-cf.bigcrunch.com
@@ -8077,7 +8078,6 @@ app.pally.live
 app.pandasuite.io
 app.panomoments.com
 app.partner.fisglobal.com
-app.partnerboost.com
 app.pawsket.com
 app.payments-response.americanexpress.co.uk
 app.payments.53.com
@@ -10580,6 +10580,7 @@ cdn.bannerflow.com
 cdn.branch.io
 cdn.braze.eu
 cdn.cdmetrix.com
+cdn.dfsdk.com
 cdn.eaec.fpfis.tech.ec.europa.eu
 cdn.freefarcy.com
 cdn.freshmarketer.com
@@ -10596,6 +10597,7 @@ cdn.prod.euid.eu
 cdn.ravm.tv
 cdn.scarabresearch.com
 cdn.segment.com
+cdn.seonintelligence.com
 cdn.smalk.ai
 cdn.sy-d.io
 cdn.usefathom.com
@@ -11022,7 +11024,6 @@ clickintext.com
 clickintext.net
 clickiocdn.com
 clicklink.jp
-clickngo.pro
 clickngo.top
 clickonometrics.pl
 clickpoint.it
@@ -11399,7 +11400,6 @@ collector.hippodromeonline.com
 collector.mazeberry.com
 collector.megaxh.com
 collector.net-logger.com
-collector.orf.at
 collector.pi.spectrum.net
 collector.pmc.com
 collector.quillbot.com
@@ -11758,6 +11758,7 @@ consulting.icmi.com
 consulting.mcgladrey.com
 consumer.equifax.com
 consumer.inform.equifax.com
+consumerdebtnegotiation.com
 consumerknowhow.com
 consumerzero.com
 contact-us.adp.ca
@@ -13683,6 +13684,7 @@ digital.ironmountain.com
 digital.medimpact.com
 digital.opsbase.com
 digital.setpointis.com
+digitalatticnewsletter.com
 digitalblend.net
 digitalmarketing.gogsg.com
 digitalmarketing.smu.edu.sg
@@ -14230,6 +14232,7 @@ dsp-track-global.zmaticoo.com
 dsp.colpirio.com
 dsp.io
 dspx.tv
+dsspn.com
 dst05lp2.net.mydays.de
 dstillery.com
 dsvmgu.snipes.it
@@ -15931,7 +15934,6 @@ everestads.net
 everesttech.net
 evergage.com
 evergage1.actonservice.com
-eversales.space
 eversource.actonservice.com
 everypeach.com
 everyscreenmedia.com
@@ -16926,6 +16928,7 @@ g2insights-cdn.azureedge.net
 g4p.redtram.com
 g594253006.co
 g792337340.co
+g792337341.co
 g792337342.co
 g792337343.co
 g8715710740.co
@@ -18373,7 +18376,6 @@ helpflame.com
 helpingbits.com
 heltefenskalls.com
 hemblx.vans.cl
-hentaicounter.com
 herbalaffiliateprogram.com
 herbgreencolumn.com
 herbstarsbuilding.com
@@ -29692,7 +29694,6 @@ pixel.homebook.pl
 pixel.ionos.com
 pixel.ionos.de
 pixel.ionos.fr
-pixel.keywee.co
 pixel.kknews.cc
 pixel.leadlovers.app
 pixel.lilystyle.ai
@@ -31199,6 +31200,7 @@ remp.nv.ua
 renaultbankdirekt.efscle.com
 rent.mgrc.com
 rentinfinity.com
+rentinfrared.com
 renting.aldautomotive.es
 rentpenny.com
 repdata.12newsnow.com
@@ -31261,6 +31263,7 @@ reports.sdiapi.com
 reports.tunein.com
 reportsk.web.sdo.com
 reppify.actonservice.com
+republicfarm.net
 republika.onet.pl
 reqssx.centerparcs.fr
 request.idangels.org
@@ -31417,6 +31420,7 @@ retirementservices.firstallied.com
 retrack.q-divisioncdn.de
 retrievemint.com
 retrocrypt.com
+retrorays.com
 reuniondepadres.unisabana.edu.co
 rev.iq
 revals.net
@@ -31549,6 +31553,7 @@ robotsrefinery.com
 rochelle.wantsext.me
 rockabox.co
 rockagainst.com
+rockcarving.com
 rocketmonitor.com
 rockstarwriter.com
 roedwy.imidapeptide.com
@@ -31680,6 +31685,7 @@ ru-ru.siemensplmevents.com
 ru-traffic.com
 ru4.com
 rubiconproject.com
+rubouthunger.com
 rubyswinehouse.com
 rudder-tracking.rudderstack.com
 rugttt.robinson.com
@@ -31880,6 +31886,7 @@ s.upoker.net
 s.useeffectbyexample.com
 s.usenix.org
 s.utop.vn
+s.uuidksinc.net
 s.vibe.co
 s.vucko.co
 s.waterloochronicle.ca
@@ -32206,6 +32213,7 @@ safetravelsapp.progressive.com
 safety.west.com
 saffronrefuge.com
 sageanalyst.net
+sagetrack.net
 sagxlv.daniellashevel.com
 sail-horizon.com
 sailinsight-app.sapsailing.com
@@ -32433,6 +32441,7 @@ sandbox-elq.keysight.com
 sandboxbid.com
 sandstrophies.com
 sandypocket.com
+sandytaco.com
 sanity-dataplane.rudderstack.com
 sanl.champssports.ca
 sanl.champssports.com
@@ -32667,6 +32676,7 @@ scratchsofa.com
 screechingfurniture.com
 screechingstocking.com
 screechingstove.com
+screenphotos.com
 scribblestring.com
 scribe.wongnai.com
 scrippscookingchannel.cookingchanneltv.com
@@ -37009,6 +37019,7 @@ smodus.nike.com
 smoggysnakes.com
 smoggysongs.com
 smoggystation.com
+smoketester.com
 smon.activate.cz
 smon.blackhistorymonth.gov
 smon.congress.gov
@@ -38866,6 +38877,7 @@ stats.equium.io
 stats.erikinthekitchen.com
 stats.erlef.org
 stats.esecured.net
+stats.estrema.it
 stats.evenchilada.com
 stats.executebig.org
 stats.exploratv.ca
@@ -44036,6 +44048,7 @@ tracking.vodafone.co.uk
 tracking.vodafone.com
 tracking.voordeeluitjes.nl
 tracking.voxeus.com
+tracking.vviinn.com
 tracking.wallapop.com
 tracking.wao-corp.com
 tracking.wao.ne.jp
