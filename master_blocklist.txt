@@ -6789,6 +6789,7 @@ analytics.belgacom.be
 analytics.bestreviews.com
 analytics.betterplaces.nl
 analytics.bgr.com
+analytics.bhaskarsaikia.in
 analytics.bigfishgames.com
 analytics.bitchute.com
 analytics.bitrix.info
@@ -9649,6 +9650,8 @@ blsoof.wirwinzer.de
 blue-rocket.actonservice.com
 blue.nbc4i.com
 blueadvertise.com
+bluebellbooks.com
+bluebirdteam.com
 bluebusiness.actonservice.com
 bluecava.com
 bluecollarmuse.com
@@ -10036,6 +10039,7 @@ broadcastbed.com
 broaddoor.com
 broadstreet.ai
 broadstreetads.com
+broflask.com
 bronxvanilla.openapp.link
 brooklynway.openapp.link
 brotherslocket.com
@@ -10309,6 +10313,7 @@ ca.ssl.holdmybeerconsulting.com
 caamcs.julipet.it
 caapp.levi.com
 cache2.delvenetworks.com
+cactus.jd.com
 cactus.joybuy.com
 caderonline.bu.edu
 cadsuta.net
@@ -12198,6 +12203,7 @@ crypticgenius.com
 crypto-loot.org
 crypto.egghead.link
 crystalboulevard.com
+crystaldewfarm.com
 crzohw.intersport.gr
 cs.analytics.lego.com
 cs.bankmillennium.pl
@@ -13392,6 +13398,7 @@ debug-inform.liilix.com
 debug-r.rover.com
 decenterads.com
 decidedrum.com
+decimalnet.com
 decisionhut.com
 decisivebase.com
 decisivedrawer.com
@@ -15897,6 +15904,7 @@ events.paramount.tech
 events.pella.com
 events.pickrr.com
 events.plus.yandex.net
+events.plutus.ninja
 events.practo.com
 events.prd.api.max.com
 events.privy.com
@@ -18382,6 +18390,7 @@ hemblx.vans.cl
 herbalaffiliateprogram.com
 herbgreencolumn.com
 herbstarsbuilding.com
+hermes.jd.com
 herpes2.pa-ruit.jp
 hesconet.actonservice.com
 hesprh.sony.jp
@@ -20429,6 +20438,7 @@ ink1001.com
 inkcoupon.com
 inkubate.actonservice.com
 inmobi.com
+inmobicdn.net
 inmtuj.jobs.ie
 inmuzp.popsockets.com
 inner-active.com
@@ -22903,6 +22913,7 @@ log-2ffe60ee.westpac.com.au
 log-ads.r7.com
 log-api.cli.im
 log-gateway.zoom.us
+log-h5.imdada.cn
 log-lb.skyperfectv.co.jp
 log-pq.shopfully.cloud
 log-upload-os.hoyolab.com
@@ -25526,6 +25537,7 @@ mercadeo.promerica.fi.cr
 merchant-app.th3rdwave.coffee
 merchant-mail.neosurf.com
 merchant.libertycarz.com
+mercury.jd.com
 mercuryace.com
 meremark.com
 merequartz.com
@@ -27331,6 +27343,7 @@ mlinks.fluz.app
 mlinks.helloalfred.com
 mlkblr.la-becanerie.com
 mlkklg.suncamp.de
+mllog.jd.com
 mlm.de
 mlmswk.janpara.co.jp
 mlqzau.koffer.com
@@ -40143,6 +40156,7 @@ sync.adap.tv
 sync.rambler.ru
 sync.richaudience.com
 sync.shinobi.jp
+synccache.com
 syncingbridge.com
 synonymoussticks.com
 synthesizescarecrow.com
@@ -45124,6 +45138,7 @@ uqckxr.chilli.se
 uqd.io
 uqhpej.wiberrentacar.com
 ur.b.inhaabit.com
+uranus.jd.com
 urbanairship.com
 urbanlaurel.com
 urbanopus.net
@@ -46698,6 +46713,7 @@ wkympu.agnesb.co.jp
 wl-analytics.tsp.li
 wl-pixel.index.digital
 wl.bl.frequentvalues.com.au
+wl.jd.com
 wl.spotify.com
 wlct-one.de
 wlct-two.de
