@@ -4576,7 +4576,6 @@ ad.dyntracker.de
 ad.e-dpe.jp
 ad.e-viral.com
 ad.eurosport.com
-ad.exyws.org
 ad.freecity.de
 ad.freenet-rz.de
 ad.gate24.ch
@@ -5127,7 +5126,6 @@ adnet.biz
 adnet.de
 adnet.ru
 adnet.worldreviewer.com
-adnetasia.com
 adnetinteractive.com
 adnetwork.com.br
 adnetwork.fullservices.com.ar
@@ -5280,7 +5278,6 @@ ads-dev.pinterest.com
 ads-fr.spray.net
 ads-game-187f4.firebaseapp.com
 ads-img.mozilla.org
-ads-portal-cdn.vidaatv.net
 ads-rdb.sol.no
 ads-solno.sol.no
 ads-tracking.beop.io
@@ -5801,7 +5798,6 @@ ads2.clearchannel.com
 ads2.contentabc.com
 ads2.femmefab.nl
 ads2.gamecity.net
-ads2.hsoub.com
 ads2.jubii.dk
 ads2.mediaops.com.br
 ads2.msn.com
@@ -16402,6 +16398,7 @@ firstscreenshot.com
 firurx.invia.hu
 fishersfinds.com
 fishing.daigostudio.com
+fishingrodsgalore.com
 fishingtoolsbox.com
 fishspies.com
 fitgreatest.com
@@ -21859,7 +21856,6 @@ li.gq.com
 li.hearstmags.com
 li.livingsocial.com
 li.mw.drhinternet.net
-li.onetravel.com
 li.patheos.com
 li.pmc.com
 li.realtor.com
@@ -25452,6 +25448,7 @@ mediaforge.com
 mediafuse.com
 mediageneral.com
 mediaiqdigital.com
+mediamaker.net
 mediamath.com
 mediamathrdrt.com
 mediametrics.mpsa.com
@@ -25574,6 +25571,7 @@ metadsp.co.uk
 metaffiliation.com
 metajaws.com
 metallic.actonservice.com
+metalsfactory.com
 metanetwork.com
 metapack.actonservice.com
 metawelcome.com
@@ -27515,6 +27513,7 @@ motu-teamblue.services
 mountedbattery.com
 mousebusters.odencat.com
 mouseflow.com
+mousescene.com
 mousestats.com
 movableobject.com
 movad.net
@@ -27635,6 +27634,7 @@ muchads.com
 mud4.destinia.com.eg
 muddledaftermath.com
 muddledmemory.com
+muddlingthroughcode.com
 mugapi.lazzarionline.com
 muhttw.spotlightstores.com
 mujjrh.stylenanda.com
@@ -27883,6 +27883,7 @@ nedstatbasic.net
 nedstatpro.net
 needleaf.com
 needyneedle.com
+neighborhoodbiketours.com
 neighborlywatch.com
 nekgtz.bluestoneperennials.com
 nend.net
@@ -28037,6 +28038,7 @@ newsletters.bancsabadell.com
 newslink.reuters.com
 newstarads.com
 newsuccesssecret.com
+newsvehicles.com
 newt1.adultadworld.com
 newtest.wunderman-email.cjm.adobe.com
 newtopsites.com
@@ -31105,6 +31107,7 @@ redirectingat.com
 redirector.eservice.emarsys.net
 redirectvoluum.com
 redlion.actonservice.com
+redmillgroup.com
 redrection.pro
 redshell.io
 redthreadmarketing.actonservice.com
@@ -31271,6 +31274,7 @@ repdata.wzzm13.com
 repdata.ydr.com
 repdata.yorkdispatch.com
 repeatsweater.com
+repfineart.com
 replaceroute.com
 reply.osv.com
 report-1.appmetrica.webvisor.com
@@ -31466,6 +31470,7 @@ reversetickets.com
 revgroup.actonservice.com
 review.openapp.link
 review.teradata.com
+reviewacousticguitar.com
 revivalvoice.com
 revive.haskovo.net
 revive.netriota.hu
