@@ -7516,6 +7516,7 @@ apiwmda.58.com.cn
 apllogistics.actonservice.com
 aplobv.xexymix.com
 aplus.alibaba.com
+apm-rum.inf.miui.com
 apm.qwant.com
 apm.tnet.nl
 apmebf.com
@@ -8448,6 +8449,7 @@ apps.uquote.io
 apps.weekendgowhere.sg
 apps.wholefoodsmarket.com
 apps.zingeroo.com
+appsecstudio.com
 appsecurezomation.carte-gr.total.fr
 appsflyer.com
 apptest.gotvive.com
@@ -9780,6 +9782,7 @@ boundlessveil.com
 boutique.ricoh.fr
 bowie-cdn.fathomdns.com
 bowl.actonservice.com
+bowlershut.com
 box.anchorfree.net
 box.bossdata.be
 boxandcover.com
@@ -10948,6 +10951,7 @@ click.kataweb.it
 click.klarna.de
 click.kmindex.ru
 click.landsend.com
+click.lenovo.com
 click.liftoff.io
 click.linksynergy.com
 click.lmbcustomersupport.com
@@ -12314,6 +12318,7 @@ cueohf.forumpro.fr
 cueohf.forumsactifs.com
 cueohf.hungarianforum.com
 cufroa.aboutyou.be
+cuisinevoyager.com
 culliganwaterco.actonservice.com
 culture.intermedes.com
 culture.pandasuite.io
@@ -14049,6 +14054,7 @@ dmndfrcstng.com
 dmp.citynews.ovh
 dmp.mall.tv
 dmpcdn.el-mundo.net
+dmplog.qq.com
 dmpmetrics.rcsmetrics.it
 dmpxs.com
 dmqykw.thirtymall.com
@@ -21787,6 +21793,8 @@ leecompany.actonservice.com
 leftliquid.com
 legalhold.ediscovery.com
 legava.net
+lego-tech.zhuanzhuan.com
+lego.zhuanzhuan.com
 legolas.monotote.com
 lekfso.hitohana.tokyo
 lem.nouvelobs.com
@@ -23030,6 +23038,7 @@ logs.animaapp.com
 logs.betterstack.com
 logs.chatboost-cv.algoage.co.jp
 logs.dynamicauth.com
+logs.game.qq.com
 logs.hotstar.com
 logs.kaya.delfi.ee
 logs.logrocket.com
@@ -23605,6 +23614,7 @@ managedaccounts.nvenergy.com
 managedaccounts.pacificpower.net
 managedaccounts.rockymountainpower.net
 manamoment.com
+manateemotors.com
 mandant.net.anwalt.de
 mandrillapp.com
 mandrillapp.zola.com
@@ -27894,6 +27904,7 @@ neoncsr21.net.anwalt.de
 neonsites.com
 neosllc.actonservice.com
 neowiv.brumbrum.it
+nerdworldcon.com
 nerldv.ullapopken.pl
 nervoussummer.com
 nestbuyers.com
@@ -28479,9 +28490,11 @@ offermatica.com
 offerniche.com
 offers.desertschools.org
 offers.egroups.com
+offers.gateway-lts450.com
 offers.hddistributors.com
 offers.jazelauto.com
 offers.la-z-boy.com
+offers.ltsc-has.com
 offers.storagepipe.com
 offgridcrops.com
 officestylist.com
@@ -28612,6 +28625,9 @@ omftdc.morijuku.com
 omg10.com
 omgcreative.actonservice.com
 omgthink.com
+omgup.didiglobal.com
+omgup.xiaojukeji.com
+omgup1.xiaojukeji.com
 omjtca.emlakjet.com
 omn.americanexpress.com
 omn.costumesupercenter.com
@@ -29760,6 +29776,7 @@ pixel.yabidos.com
 pixel.yola.com
 pixel6.wp.pl
 pixeledhub.com
+pixelmoonstudio.com
 pixels.afcdn.com
 pixels.boxberry.ru
 pixels.zalify.com
@@ -37610,6 +37627,7 @@ speakol.com
 spec-sensors.actonservice.com
 specialevent.informaengage.com
 specially4u.net
+specialreview.net
 specialscissors.com
 specialtypin.com
 specificclick.net
@@ -38362,6 +38380,7 @@ ssy7.destinia.com.ua
 st-a.cdp.asia
 st-a8.tscubic.com
 st-nlyss1.plala.or.jp
+st-sentinel.vivo.com.cn
 st.anastasija.lt
 st.azcardinals.com
 st.bahn.de
@@ -39664,6 +39683,7 @@ stormyflower.com
 stormysponge.com
 storygize.net
 stoveseashore.com
+stpc.vivo.com.cn
 str.foodnetwork.ca
 str.globalnews.ca
 str1kee.com
@@ -39899,6 +39919,7 @@ superficialsquare.com
 superiorgroup.actonservice.com
 superpointlesshamsters.com
 supersonicads.com
+superstarorganizer.com
 superstats.com
 superstats.observepoint.com
 supertop.ru
@@ -40045,7 +40066,6 @@ swan-swan-goose.com
 swankysquare.com
 swanwebcreations.com
 swasc.homedepot.ca
-swasc.homedepot.com
 swasc.kaufland.bg
 swasc.kaufland.com
 swasc.kaufland.cz
@@ -41621,6 +41641,7 @@ tk.bricoprive.com
 tk.bullebleue.fr
 tk.cadeaux.com
 tk.conforama.fr
+tk.d.mi.com
 tk.dietbon.fr
 tk.domitys.fr
 tk.dossier.co
@@ -43235,6 +43256,7 @@ track.kiomi.com
 track.kueez.com
 track.kyoads.com
 track.leady.cz
+track.lenovo.com.cn
 track.lesmills.com
 track.lettingaproperty.com
 track.list-finder.jp
@@ -43392,6 +43414,7 @@ tracker.eft.com
 tracker.ethicalcorp.com
 tracker.euroweb.net
 tracker.eyeforpharma.com
+tracker.fengkongcloud.com
 tracker.financialcontent.com
 tracker.gamedock.io
 tracker.gamemonkey.org
@@ -43689,6 +43712,7 @@ tracking.game8.jp
 tracking.gameforge.de
 tracking.gartner.com
 tracking.gaslicht.com
+tracking.gauchosurf.com
 tracking.gelia.com
 tracking.getapp.com
 tracking.global-demand02.nec.com
@@ -47739,6 +47763,7 @@ xmyvhu.soxo.pl
 xnukcp.cpcompany.com
 xovq5nemr.com
 xp.allianz.de
+xp.atlassian.com
 xp2023-pix.s3.amazonaws.com
 xpcpmr.gsm55.com
 xplusone.com
