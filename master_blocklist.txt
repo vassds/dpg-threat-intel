@@ -4753,6 +4753,7 @@ ad6media.fr
 ad7.atlas.cz
 ad7.bbmedia.cz
 ad7.bigmir.net
+ad7.biz
 ad8.atlas.cz
 ad8.bbmedia.cz
 ad9.atlas.cz
@@ -4999,6 +5000,7 @@ adhese.com
 adhigh.net
 adhitz.com
 adhoc4.net
+adhood.com
 adhostingsolutions.com
 adhub.media
 adhudg.nec-lavie.jp
@@ -31609,6 +31611,7 @@ rockcarving.com
 rocketmonitor.com
 rockstarwriter.com
 roedwy.imidapeptide.com
+roguephilosopher.com
 roia.biz
 roibest-report-sdk.qiliangjia.com
 roinjg.mkluzkoviny.cz
@@ -43112,6 +43115,7 @@ track-e.infineon.com
 track-e.infineoncommunity.com
 track-eu.customer.io
 track-mail.homage.co
+track-na2.hubspot.com
 track-sdk-eu.customer.io
 track-sdk.customer.io
 track-srv.vietnamnet.vn
