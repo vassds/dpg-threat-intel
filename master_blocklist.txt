@@ -10880,6 +10880,7 @@ click-staging.food.mercato.com
 click-staging.getdreams.co
 click-testing.moselo.com
 click-trk.com
+click-v4.expclknb.com
 click.aabacosmallbusiness.com
 click.aaptiv.com
 click.afiliados.uol.com.br
