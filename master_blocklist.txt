@@ -6167,6 +6167,7 @@ adv-sv-stat.focus.cn
 adv.440network.com
 adv.com.br
 adv.cooperhosting.net
+adv.donejty.pl
 adv.drtuber.com
 adv.freeonline.it
 adv.hwupgrade.it
@@ -6773,6 +6774,7 @@ analytics.andrewsmith.com.au
 analytics.animexx.de
 analytics.api.justeattakeaway.com
 analytics.apnewsregistry.com
+analytics.app.funnelish.com
 analytics.archive.org
 analytics.argeton.com
 analytics.arunraghavan.net
@@ -10066,6 +10068,7 @@ browser-updater.yandex.net
 browser.covatic.io
 browser.pipe.aria.microsoft.com
 browserguides.net
+browsertdidticket.m.qq.com
 brpayless.eccocar.com
 brqory.notino.sk
 brquazzar.eccocar.com
@@ -12208,6 +12211,7 @@ crs.actonservice.com
 crsspxl.com
 crta.and.co.uk
 crta.dailymail.co.uk
+crta.dailymail.com
 crta.metro.co.uk
 crtv.mate1.com
 cruisetourist.com
@@ -14722,6 +14726,7 @@ edm.neoslife.com.au
 ednqjm.magnanni.com
 edpsmart.edpcomunicacao.com.br
 edriving.actonservice.com
+edshowpigs.com
 edtrainingcenter.actonservice.com
 edu.quizdom.gr
 education.bendigotafe.edu.au
@@ -15945,6 +15950,7 @@ events.ricoh.de
 events.ricoh.ie
 events.s4long.com
 events.santander.co.uk
+events.searchtap.net
 events.shareably.net
 events.shoplift.ai
 events.sk.ht
@@ -17024,6 +17030,7 @@ gatan.actonservice.com
 gate-ag.first-id.fr
 gateway.aimia.com
 gateway.foresee.com
+gatherer.m.qq.com
 gator.com
 gaudyairplane.com
 gaug.es
@@ -17351,6 +17358,7 @@ gkfdkf.jdsports.co.uk
 gkgygj.verivox.de
 gkopqp.coccodrillo.eu
 gksqdt.reitmans.com
+gkx.gokwik.co
 gl5g98t0vfjb.panprices.com
 gladysway.com
 glam.com
@@ -19619,7 +19627,6 @@ importantmeat.com
 importedincrease.com
 importedinsect.com
 impossibleexpansion.com
-imprese.cz
 impresionesweb.com
 impress.vcita.com
 impression-tracker-service-5eimuebuhq-lz.a.run.app
@@ -22995,6 +23002,7 @@ log.medietall.no
 log.mgtv.com
 log.mix.sina.com.cn
 log.mofa.go.kr
+log.news.baidu.com
 log.nordot.jp
 log.olark.com
 log.outbrain.com
@@ -23660,6 +23668,7 @@ mapp.jysk.nl
 mapp.peacocks.co.uk
 mapp.yesstyle.com
 marblediscussion.com
+marbleseeds.com
 marceline.wantsext.me
 march.landing.ni.com
 marchex.com
@@ -29254,6 +29263,7 @@ p.pagesjaunes.fr
 p.placed.com
 p.pmu.fr
 p.ryanhalliday.com
+p.sa7eer.com
 p.skimresources.com
 p.spotidownloader.com
 p.tencentmind.com
@@ -30556,6 +30566,7 @@ pulse.munsonhealthcare.org
 pulse.shopflo.com
 pulsemgr.com
 pulsepoint.com
+pulsepoint.ideal.house
 pumlmb.netcologne.de
 pumpedpancake.com
 pumpedpurpose.com
@@ -31099,6 +31110,7 @@ realsrv.com
 realtechnetwork.com
 realtime-profiling.datarize.ai
 realtime.bbcl.cl
+realtimeanalytics.yext.com
 realtimely.io
 realtors.eq.delwebb.com
 realtracker.com
@@ -41250,6 +41262,7 @@ techpump.com
 techservices.trapptechnology.com
 techsupport.balluff.com
 teczbq.amicashop.com
+ted.dailymail.co.uk
 tediousbear.com
 tedioustooth.com
 teefiksummin.visma.fi
@@ -43215,6 +43228,7 @@ track.concur.com.sg
 track.connect.travelaudience.com
 track.connectwise.com
 track.contently.com
+track.convertfox.com
 track.cordial.io
 track.cornerstonebuildingbrands.com
 track.craudia.com
@@ -44287,6 +44301,7 @@ trafficz.com
 trafficz.net
 traffiq.com
 trafic.ro
+trafik.koopit.ist
 trail-001.schleich-s.com
 trail.53kf.com
 trail.71baomu.com
@@ -46619,6 +46634,7 @@ webstat.garanti.com.tr
 webstat.net
 webstat.qiumibao.com
 webstat.vodafone.com
+webstat.ws.126.net
 webstats.americanbar.org
 webstats.bijenpatel.com
 webstats.cbre.com
