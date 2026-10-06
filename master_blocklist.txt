@@ -6645,6 +6645,7 @@ ampscamp.net
 ams-pageview-public.s3.amazonaws.com
 ams.lelong.com.my
 ams.oraclecloud.com
+amspbs.com
 amsunsolar.actonservice.com
 amuckafternoon.com
 amung.us
@@ -6695,6 +6696,7 @@ analytic.divee.ai
 analytic.fishtrack.com
 analytic.hawaii.aaa.com
 analytic.hotelclub.com
+analytic.is
 analytic.newmexico.aaa.com
 analytic.northernnewengland.aaa.com
 analytic.rollout.io
@@ -10219,6 +10221,7 @@ bwkpkx.projectxparis.com
 bwmxdg.kimono-365.jp
 bwntyd.neuve-a.net
 bwp.download.com
+bws.airwallex.com
 bwspqc.bloomonline.jp
 bwujxl.yoga-lava.com
 bx-cloud.com
@@ -10602,6 +10605,7 @@ cdn-eu.usefathom.com
 cdn-f.adsmoloco.com
 cdn-magiclinks.trackonomics.net
 cdn-rum.ngenix.net
+cdn-vitals.com
 cdn.9gtb.com
 cdn.arcstudiopro.com
 cdn.bannerflow.com
@@ -14213,6 +14217,7 @@ dpbolvw.net
 dpckzt.mesrecettesfaciles.fr
 dplp1.ibmnorthamerica.adobesandbox.com
 dpm.demdex.net.iberostar.com
+dppesulohfqre.cloudfront.net
 dppublishinginc.actonservice.com
 dptgdj.usagi-online.com
 dptkdh.joinhoney.com
@@ -16488,6 +16493,7 @@ flonty.com
 floodedpixel.com
 floodprincipal.com
 floorforce.actonservice.com
+floors.dev
 flotech.actonservice.com
 flourishingcollaboration.com
 flourishingendeavor.com
@@ -16820,6 +16826,7 @@ fsegfy.lepoint.fr
 fsm.lapresse.ca
 fsqwdj.live-tennis.eu
 fsresidential.actonservice.com
+fsrv.io
 fst-ec.perimeterx.net
 fsugco.rcn.nl
 fsz1.francoisesaget.com
@@ -30929,6 +30936,7 @@ r.morons.us
 r.msn.com
 r.niwepa.com
 r.onmyway.com
+r.openai.com
 r.phhhoto.com
 r.powuta.com
 r.presspadnews.com
@@ -32710,6 +32718,7 @@ scentedkindly.com
 scheduling.qualifi.hr
 schinnerer.actonservice.com
 scholarloop.com
+scholarsark.com
 schoolpaws.com
 schwacke.autovistagroup.com
 schwaebischhall.efscle.com
@@ -38462,6 +38471,7 @@ st.onemazdausa.com
 st.picshuffle.com
 st.preciousamber.com
 st.pubmatic.com
+st.putler.com
 st.s-bahn-muenchen-magazin.de
 st.sawlive.tv
 st.tulastudio.se
@@ -40864,6 +40874,7 @@ tapfiliate.com
 tapi.kaufda.de
 tapinfluence.com
 tapjoy.com
+tapoutmusic.com
 tappx.com
 targad.de
 target-omtrdc.deka.de
@@ -41922,6 +41933,7 @@ toplista.mw.hu
 toplistcity.com
 topofpub.net
 topping.com.ua
+topratedwaterfilter.com
 toprebates.com
 topsafelist.net
 topsecretapp.net
