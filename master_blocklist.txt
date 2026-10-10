@@ -4616,7 +4616,6 @@ ad.liveinternet.ru
 ad.lupa.cz
 ad.magokoro-care-shoku.com
 ad.mediastorm.hu
-ad.mg
 ad.mgd.de
 ad.missena.io
 ad.musica.com
@@ -4847,7 +4846,6 @@ adbutler.com
 adbuyer.com
 adbuyer3.lycos.com
 adc-js.nine.com.au
-adcampo.com
 adcannyads.com
 adcash.com
 adcast.deviantart.com
@@ -6167,7 +6165,6 @@ adv-sv-stat.focus.cn
 adv.440network.com
 adv.com.br
 adv.cooperhosting.net
-adv.donejty.pl
 adv.drtuber.com
 adv.freeonline.it
 adv.hwupgrade.it
@@ -7257,6 +7254,7 @@ analytics.traderlink.com
 analytics.truckingauthority.com
 analytics.trust.page
 analytics.trutv.com
+analytics.tsoftapps.com
 analytics.tufos.com.br
 analytics.turnertv.com
 analytics.tver.jp
@@ -8519,6 +8517,7 @@ argos.citruserve.com
 argyleforum.actonservice.com
 argyresthia.com
 aria.inhaabit.com
+ariaclean.com
 ariane.abtasty.com
 arigng.door.ac
 arincol.arin-innovation.com
@@ -9554,6 +9553,7 @@ bilahh.feuvert.fr
 bilder11.markt.de
 bilingualgeek.com
 billboard.cz
+billionpet.com
 billowybead.com
 billowybelief.com
 billtable.com
@@ -9778,6 +9778,7 @@ booster.osnova.io
 bopmkf.lolahome.es
 boqufs.2nn.jp
 boredcrown.com
+borefee.com
 boringberry.com
 boringcoat.com
 boringpirate.com
@@ -10820,6 +10821,7 @@ cisco-eagle.actonservice.com
 ciszhp.finanzfrage.net
 ciszhp.gesundheitsfrage.net
 ciszhp.motorradfrage.net
+citizensactive.com
 citizensclimate.actonservice.com
 citizenship.quantresear.ch
 citrusad.net
@@ -11051,6 +11053,7 @@ clickdensity.com
 clickdimensions.com
 clicked.ebates.com
 clickedyclick.com
+clickersdigest.com
 clickexperts.net
 clickfuse.com
 clickhere.egroups.com
@@ -11225,6 +11228,7 @@ cltr.willhaben.at
 cltxxq.cruises.united.com
 clumsycar.com
 clustrmaps.com
+clutchcourses.com
 clyexf.decathlon.ie
 cm-exchange.toast.com
 cm-in.americanexpress.com
@@ -15061,7 +15065,6 @@ em.getsimpleprints.com
 em.stauffersafety.com
 em.thermofisher.com
 em.touchtunes.com
-em1.yoursantander.co.uk
 em6802.musesapp.com
 email-activecampaign.branch.rocks
 email-activecampaign.keylyst.com
@@ -15373,7 +15376,6 @@ emplicity.actonservice.com
 emptyboats.com
 emptyescort.com
 emrdnt.sumaity.com
-emrld.cc
 ems-a8net-tracking.easy-myshop.jp
 ems.youku.com
 emsexam.quantresear.ch
@@ -15984,6 +15986,7 @@ everestads.net
 everesttech.net
 evergage.com
 evergage1.actonservice.com
+eversales.space
 eversource.actonservice.com
 everypeach.com
 everyscreenmedia.com
@@ -17367,7 +17370,6 @@ gkfdkf.jdsports.co.uk
 gkgygj.verivox.de
 gkopqp.coccodrillo.eu
 gksqdt.reitmans.com
-gkx.gokwik.co
 gl5g98t0vfjb.panprices.com
 gladysway.com
 glam.com
@@ -19636,6 +19638,7 @@ importantmeat.com
 importedincrease.com
 importedinsect.com
 impossibleexpansion.com
+imprese.cz
 impresionesweb.com
 impress.vcita.com
 impression-tracker-service-5eimuebuhq-lz.a.run.app
@@ -23512,6 +23515,7 @@ ma.axiomatics.com
 ma.betterbusiness.se
 ma.brightby.se
 ma.cbre.com
+ma.gamersnexus.net
 ma.hitachi-systems.com
 ma.hmhco.com
 ma.kyloepartners.com
@@ -29827,6 +29831,7 @@ pixel.wp.com
 pixel.wp.pl
 pixel.yabidos.com
 pixel.yola.com
+pixel2.realclever.com
 pixel6.wp.pl
 pixeledhub.com
 pixelmoonstudio.com
@@ -39206,6 +39211,7 @@ stats.locallabs.com
 stats.localmetravel.com
 stats.lord.io
 stats.lotlinx.com
+stats.lrb.co.uk
 stats.lstfnd.de
 stats.ltdhunt.com
 stats.luieremmer.net
@@ -39607,6 +39613,7 @@ stats.yourfone.de
 stats.zimri.net
 stats.zoogletools.net
 stats.zotabox.com
+stats.zruvix.com
 stats2.architecturaldigest.com
 stats2.bonappetit.com
 stats2.cntraveler.com
@@ -41966,6 +41973,7 @@ townhouses.woodlea.com.au
 townsquareinteractive.actonservice.com
 toysbasics.com
 toytakeover.com
+tp-em.cc
 tp-emea.exactag.com
 tp.ackermann.ch
 tp.ambria.de
@@ -44007,7 +44015,6 @@ tracking.orixa-media.com
 tracking.osteuropaladies.de
 tracking.oswegohealth.org
 tracking.outsetmedical.com
-tracking.p-l-m.com
 tracking.pacharge.com
 tracking.parcelpending.com
 tracking.particuliers.engie.fr
@@ -44743,7 +44750,6 @@ trk.s.sephora.com
 trk.sais.ch
 trk.sana.com.tr
 trk.sanella.de
-trk.sayerfinancial.com
 trk.secure.icmi.com
 trk.seepex.com
 trk.send.safestyle.com.au
