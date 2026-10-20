@@ -9365,6 +9365,7 @@ beacon.affil.walmart.com
 beacon.aimtell.com
 beacon.cdn.qq.com
 beacon.cdnma.com
+beacon.cdnpure.com
 beacon.coofis.com
 beacon.dropbox.com
 beacon.errorception.com
@@ -9386,6 +9387,7 @@ beacon.shazam.com
 beacon.shutterfly.com
 beacon.sina.com.cn
 beacon.sojern.com
+beacon.viafoura.io
 beacon.walmart.com
 beacon.watch.impress.co.jp
 beacon.webpresence.work
@@ -16428,6 +16430,7 @@ fimserve.com
 fimyxg.bloomberght.com
 fimyxg.haberturk.com
 finalizeforce.com
+finalleague.com
 finaloptics.com
 financefear.com
 financialeducation-info.uchicago.edu
@@ -16480,7 +16483,9 @@ fishingtoolsbox.com
 fishspies.com
 fitgreatest.com
 fitnessmapper.com
+fitnesssponsor.com
 fitwithalpine.com
+fiveplusthree.com
 fivesidedsquare.com
 fiwinet.firmenwissen.com
 fiwinet.firmenwissen.de
@@ -16510,6 +16515,7 @@ flashplayerfeedback.adobe.com
 flashstats.libsyn.com
 flashtalking.com
 flashtexting.com
+flatpebble.com
 flavordecision.com
 flavors.firmenich.com
 fldoai.municipal.com
@@ -16808,6 +16814,7 @@ frdoki.nailcolor.work
 frdoki.selftanning.work
 frdoki.studioglass.work
 frdoki.woodblock.work
+freakywacko.com
 free-banners.com
 free-counter.co.uk
 freeadscanada.com
@@ -16878,6 +16885,7 @@ ftm.fluencyinc.co
 ftmsyy.jbl.com.br
 ftnnce.autodoc.dk
 ftp.happ.social
+ftpmagic.com
 ftuart.chomedeynissan.com
 ftv-publicite.fr
 ftwnwght.net.anwalt.de
@@ -16995,6 +17003,7 @@ g.msn.com
 g.newtimes.com
 g.pathsha.re
 g.pcmag.com
+g.rtbrain.app
 g.siliconweek.es
 g.staging.pathsha.re
 g.whatsapp.net.iberostar.com
@@ -17057,6 +17066,7 @@ galop.leferacheval-saintcloud.com
 game-advertising-online.com
 gamehouse.com
 gameplanfinancial.actonservice.com
+gamerhunk.com
 gamerone.net
 gamersbanner.com
 gamesbanner.net
@@ -18154,6 +18164,7 @@ grapeshot.co.uk
 grassrootsunwired.actonservice.com
 gravitygive.com
 gravitykick.com
+graychalk.com
 graylog.prod.cams.run
 grayoranges.com
 grayreceipt.com
@@ -30998,6 +31009,7 @@ r.sibmail.havasit.com
 r.skimresources.com
 r.sportsie.com
 r.srvtrck.com
+r.upload.app
 r.winf.site
 r.wz.de
 r1.arts-mail.com
@@ -39540,6 +39552,7 @@ stats.tazeros.com
 stats.tdameritrade.com
 stats.te.com
 stats.teamdetails.com
+stats.techinate.com
 stats.tedserbinski.com
 stats.teenranch.com
 stats.tekin.co.uk
