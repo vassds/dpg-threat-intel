@@ -4659,6 +4659,7 @@ ad.theatreacademy.jp
 ad.thewheelof.com
 ad.turn.com
 ad.tv2.no
+ad.twinrdengine.com
 ad.twitchguru.com
 ad.universcine.com
 ad.usatoday.com
@@ -21586,6 +21587,7 @@ l.bigbasket.com
 l.biglion.ru
 l.brightside.com
 l.bspace.io
+l.ca.ovhcloud.com
 l.civic.com
 l.claphere.com
 l.closermag.fr
