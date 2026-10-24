@@ -4581,6 +4581,7 @@ ad.dyntracker.de
 ad.e-dpe.jp
 ad.e-viral.com
 ad.eurosport.com
+ad.exyws.org
 ad.freecity.de
 ad.freenet-rz.de
 ad.gate24.ch
@@ -5296,7 +5297,6 @@ ads-trk.vidible.tv
 ads-twitter.com
 ads.128b.com
 ads.20minutos.es
-ads.365.mk
 ads.3dgames.com.ar
 ads.3xmedia.ro
 ads.5ci.lt
@@ -5877,7 +5877,6 @@ adservage.com
 adservant.guj.de
 adservant.mediapoint.de
 adserve.ams.rhythmxchange.com
-adserve.gkeurope.de
 adserve.io
 adserve.jbs.org
 adserve.seeqpod.com
@@ -7512,6 +7511,7 @@ api.eu.amplitude.com
 api.fuck.education
 api.hubapi.com
 api.intensifier.de
+api.intentiq.com
 api.iterable.com
 api.june.so
 api.kameleoon.com
@@ -18720,7 +18720,6 @@ hotel-marketing.hrs.com
 hotjar.com
 hotkeys.com
 hotlog.ru
-hotrank.com.tw
 hotword.com.br
 hotwords.com.ar
 hotwords.com.mx
