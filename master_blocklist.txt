@@ -265,6 +265,7 @@ a.aproductmsg.com
 a.as-eu.falkag.net
 a.audi.fr
 a.audifrance.fr
+a.bestcontentfood.top
 a.bigtennetwork.com
 a.boredpanda.bio
 a.careangel.com
@@ -22950,6 +22951,7 @@ liverail.com
 livesearch-metrics.magento-ds.com
 livestats.kaltura.com
 livestats.matrix.it
+livetrafficfeed.com
 liveuniversenetwork.com
 liveviewer.ez.no
 liveyield.com
