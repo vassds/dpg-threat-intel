@@ -5569,6 +5569,7 @@ ads.linuxfoundation.org
 ads.linuxsecurity.com
 ads.livenation.com
 ads.localhost.net.ar
+ads.locksecures.com
 ads.lordlucky.com
 ads.lycos.com
 ads.lzjl.com
@@ -30694,6 +30695,7 @@ pushmaster-cdn.xyz
 pushno.com
 pushspring.actonservice.com
 pushtrack.co
+pushub.net
 putphc.zuhre.com.tr
 puzzle.spiriteq.com
 puzzlingfall.com
