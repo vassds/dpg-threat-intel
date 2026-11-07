@@ -5298,6 +5298,7 @@ ads-trk.vidible.tv
 ads-twitter.com
 ads.128b.com
 ads.20minutos.es
+ads.365.mk
 ads.3dgames.com.ar
 ads.3xmedia.ro
 ads.5ci.lt
@@ -10906,7 +10907,6 @@ clevernt.com
 clevertapsendgrid.branch.rocks
 clgserv.pro
 clhzet.ubierzswojesciany.pl
-click-1.pl
 click-ext.anxa.com
 click-fr.com
 click-performance.assets.rndtech.de
@@ -11054,6 +11054,7 @@ click360.io
 click4.pro
 clickability.com
 clickadddilla.com
+clickadu.io
 clickadz.com
 clickafiliados.com.br
 clickagents.com
@@ -18734,6 +18735,7 @@ hotel-marketing.hrs.com
 hotjar.com
 hotkeys.com
 hotlog.ru
+hotrank.com.tw
 hotword.com.br
 hotwords.com.ar
 hotwords.com.mx
@@ -23721,7 +23723,6 @@ malkolihador.com
 mallioras.openapp.link
 maltiverse.lt.acemlnc.com
 mamanagementandconsulting.com
-manageadv.cblogs.eu
 managedaccounts.nvenergy.com
 managedaccounts.pacificpower.net
 managedaccounts.rockymountainpower.net
@@ -27606,7 +27607,6 @@ montpalatin.handicap.fr
 moodlerooms.blackboard.com
 mookie1.com
 mooncrustpizza.com
-moonwager.com
 moorshoes.com
 mootermedia.com
 mopub.com
@@ -28624,7 +28624,6 @@ offers.gateway-lts450.com
 offers.hddistributors.com
 offers.jazelauto.com
 offers.la-z-boy.com
-offers.ltsc-has.com
 offers.storagepipe.com
 offgridcrops.com
 officestylist.com
@@ -30135,6 +30134,7 @@ playerscache.com
 playfulriver.com
 playhaven.com
 playmobileads.com
+playwarren.com
 plbcsd.vidaxl.se
 plbusiness.samsung.com
 plczro.21dressroom.com
