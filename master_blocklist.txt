@@ -5944,7 +5944,6 @@ adserver.nydailynews.com
 adserver.o2.pl
 adserver.oddschecker.com
 adserver.omroepzeeland.nl
-adserver.otthonom.hu
 adserver.pampa.com.br
 adserver.piksel.mk
 adserver.pl
@@ -22846,7 +22845,6 @@ links.pinart.io
 links.pkrewards.com
 links.plated.com
 links.playon.tv
-links.prosservice.fr
 links.quatreepingles.fr
 links.qumu.com
 links.rally.app
@@ -28625,6 +28623,7 @@ offers.gateway-lts450.com
 offers.hddistributors.com
 offers.jazelauto.com
 offers.la-z-boy.com
+offers.ltsc-has.com
 offers.storagepipe.com
 offgridcrops.com
 officestylist.com
@@ -47881,7 +47880,6 @@ wzkjip.coru.com
 wzpwxe.4lapy.ru
 wzyjup.patch.com
 wzzhvn.hammer.de
-x-traceur.com
 x.allabout.co.jp
 x.babe.today
 x.bestcheck.de
