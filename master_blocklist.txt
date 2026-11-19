@@ -4518,6 +4518,7 @@ ad-ebis.mynavi-job20s.jp
 ad-ebis.toysub.jp
 ad-log.dable.io
 ad-manager.matsukiyococokara-online.com
+ad-maven.com
 ad-pay.de
 ad-platform.jmty.jp
 ad-rotator.com
@@ -8886,6 +8887,7 @@ awuapj.landwatch.com
 awzbijw.com
 ax.babe.today
 ax.idg.se
+axcii.com
 axentis.arclogics.com
 axfevh.bandab.com.br
 axiomaticalley.com
