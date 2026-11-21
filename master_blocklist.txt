@@ -22849,6 +22849,7 @@ links.pinart.io
 links.pkrewards.com
 links.plated.com
 links.playon.tv
+links.prosservice.fr
 links.quatreepingles.fr
 links.qumu.com
 links.rally.app
@@ -41614,7 +41615,6 @@ thebestpaints.com
 thebicyclehut.com
 thebigvan.com
 thebrainybulb.com
-thebugs.ws
 thecea.actonservice.com
 thecodingpad.com
 thecounter.net
