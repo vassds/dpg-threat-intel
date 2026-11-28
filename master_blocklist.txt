@@ -11055,7 +11055,6 @@ click1.email.audacy.com
 click2.email.ticketmaster.com
 click2freemoney.com
 click360.io
-click4.pro
 clickability.com
 clickadddilla.com
 clickadu.io
@@ -40702,7 +40701,6 @@ t.nativendo.de
 t.navysports.com
 t.nc0.co
 t.nevadawolfpack.com
-t.news.browns-restaurants.co.uk
 t.newsletter.thetimes.co.uk
 t.nexity-studea.com
 t.nexity.fr
@@ -41619,6 +41617,7 @@ thebestpaints.com
 thebicyclehut.com
 thebigvan.com
 thebrainybulb.com
+thebugs.ws
 thecea.actonservice.com
 thecodingpad.com
 thecounter.net
@@ -47891,6 +47890,7 @@ wzkjip.coru.com
 wzpwxe.4lapy.ru
 wzyjup.patch.com
 wzzhvn.hammer.de
+x-traceur.com
 x.allabout.co.jp
 x.babe.today
 x.bestcheck.de
